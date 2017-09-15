@@ -290,13 +290,13 @@ public class SpecSelection {
 				modelYear = 2018;
 				buildGen = "";
 				buildSeries = "950A";
-				engine = "";
+				engine = "8GR-FXS";
 				engineType = "Multi-Stage Hybrid (gas + electric)";
 				displacement = 3.5;
-				hp = 354;
-				rpm = 0;
-				torque = 0;
-				torqueRPM = 0;
+				hp = 295;
+				rpm = 6600;
+				torque = 295;
+				torqueRPM = 5100;
 				cylinders = "V6";
 				valves = 0;
 				cam = "DOHC";
@@ -367,7 +367,7 @@ public class SpecSelection {
 					gallons, fuelType, fuelCity, fuelHwy);
 	}
 	public static void LexusGS (int modelNumber) {
-		String menu = "Select a LC model number: \n" +
+		String menu = "Select a GS model number: \n" +
 					  "1. GS 200t \n" +
 					  "2. GS 300 \n" +
 					  "3. GS 350 \n" +
