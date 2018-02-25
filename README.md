@@ -1,6 +1,6 @@
 # Lexus Specifications App
 
-This is the Lexus Specifications App using Java in console input as a practice for CS 2011 (201 in quarter).
+This is the Lexus Specifications App using Java in console input as a practice for CS 201 - Intro to Java Development.
 
 Finished Lexus specifications on these models:
 * Lexus CT 200h (2011-2016) [2ZR]
